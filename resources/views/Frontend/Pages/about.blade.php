@@ -168,7 +168,7 @@
                             <div class="swiper-slide">
                                 <div class="testimonial__item__content">
                                     <div class="author__icon">
-                                        <img src="{{asset('assets/images/author/author2.jpg')}}" alt="">
+                                        <img src="{{asset('assets/images/IMG_2344.JPG')}}" alt="">
                                     </div>
                                     <div class="testimonial__content">
                                         <div class="single__slider__item ">

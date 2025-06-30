@@ -102,7 +102,7 @@ document.getElementById('contact-forms').addEventListener('submit', function(e){
   e.preventDefault();
   var form = e.target;
   var data = new FormData(form);
-  fetch('https://formsubmit.co/ajax/tryvarse@gmail.com', { // use /ajax/ for FormSubmit
+  fetch('https://formsubmit.co/ajax/bravahotelgroup@gmail.com', { // use /ajax/ for FormSubmit
     method: 'POST',
     body: data,
     headers: { 'Accept': 'application/json' }
